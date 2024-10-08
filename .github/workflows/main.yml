@@ -1,4 +1,4 @@
-name: Generate Podcast Feed
+name: Generate Podcast Feed v1
 on: [push]
 jobs: 
   build:
